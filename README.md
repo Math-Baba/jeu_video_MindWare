@@ -23,3 +23,21 @@ Ce jeu a été développé dans le cadre du AI4GOOD festival. C'est une organisa
   <img src="image/ai4good.png" />
 </p>
 
+## Les Intelligences artificielles utilisées 
+* Pour le scénario : 
+  - ChatGPT
+    
+* Pour la génération d'images :
+  - Kling AI
+  - Gamma
+  - Lummi
+  - Freepik
+  - Microsoft Copilot
+
+* Pour la voix :
+  - EvenLabs
+
+* Pour les ajustements d'images :
+  - removebg
+  - pixelcut ai
+
