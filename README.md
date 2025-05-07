@@ -18,7 +18,7 @@ Pour pouvoir jouer au jeu, il est nécessaire d'installer le logiciel renpy sur 
 * Vous pouvez maintenant lancer le projet MindWare
 
 ## AI4GOOD Festival
-Ce jeu a été développé dans le cadre du AI4GOOD festival. C'est une organisation à but non lucratif qui initie les jeunes à l’utilisation de l’intelligence artificielle pour créer des films, jeux vidéo et musiques, pour qu’ils développent leurs compétences tout en s’engageant sur des enjeux sociaux majeurs.
+Ce jeu a été développé dans le cadre du AI4GOOD festival. Cette une organisation à but non lucratif initie les jeunes à l’utilisation de l’intelligence artificielle pour créer des courts-métrages et jeux vidéo, pour qu’ils développent leurs compétences tout en s’engageant sur des enjeux sociaux majeurs.
 <p align="center">
   <img src="image/ai4good.png" />
 </p>
