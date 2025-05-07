@@ -692,22 +692,22 @@ label fin:
 
 
     # Calcul des points totaux de conscience
-    if points >= 100:
+    if points >= 90:
         scene fin1
         with fade
         "Citoyen numérique éclairé :\nTu utilises la technologie de manière éthique et réfléchie. Tu inspires ton entourage à être critique et équilibré, sans devenir dépendant du digital."
 
-    elif points >= 84:
+    elif points >= 70:
         scene fin2
         with fade
         "Utilisateur équilibré :\nTu es attentif·ve à l'impact de tes choix, mais tu fais parfois des erreurs. Tu restes modéré·e et évites de te laisser submerger par les tendances."
 
-    elif points >= 60:
+    elif points >= 50:
         scene fin3
         with fade
         "Dépendant discret :\nTu penses avoir le contrôle, mais la technologie influence de plus en plus tes décisions. Tu es déjà bien immergé·e sans t’en rendre compte."
 
-    elif points >= 36:
+    elif points >= 30:
         scene fin4
         with fade
         "Identité perdue : \n Tu es fortement influencé·e par les tendances numériques, et ta pensée se laisse guider par les algorithmes. Tu as perdu le contact avec tes valeurs."
