@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 226: expected end of line
+    stop music "audio/audio_yanis_vocal.mp3" fadeout 1.0
+               ^
+
+File "game/script.rpy", line 230: expected end of line
+    stop music "audio/audio_yanis_vocal.mp3" fadeout 1.0
+               ^
+
+File "game/script.rpy", line 234: expected end of line
+    stop music "audio/audio_yanis_vocal.mp3" fadeout 1.0
+               ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Tue May  6 21:13:41 2025

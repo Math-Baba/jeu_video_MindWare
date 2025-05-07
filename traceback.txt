@@ -1,0 +1,32 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 206, in script
+    show yanis_vocal at trucenter
+  File "game/script.rpy", line 206, in <module>
+    show yanis_vocal at trucenter
+NameError: name 'trucenter' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 206, in script
+    show yanis_vocal at trucenter
+  File "C:\Users\Mathieu\Desktop\renpy-8.3.7-sdk\renpy\ast.py", line 1124, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "C:\Users\Mathieu\Desktop\renpy-8.3.7-sdk\renpy\ast.py", line 1083, in show_imspec
+    at_list = [ renpy.python.py_eval(i) for i in at_list ]
+  File "C:\Users\Mathieu\Desktop\renpy-8.3.7-sdk\renpy\ast.py", line 1083, in <listcomp>
+    at_list = [ renpy.python.py_eval(i) for i in at_list ]
+  File "C:\Users\Mathieu\Desktop\renpy-8.3.7-sdk\renpy\python.py", line 1218, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\Mathieu\Desktop\renpy-8.3.7-sdk\renpy\python.py", line 1211, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 206, in <module>
+    show yanis_vocal at trucenter
+NameError: name 'trucenter' is not defined
+
+Windows-10-10.0.22631 AMD64
+Ren'Py 8.3.7.25031702
+MindWare 1.0
+Tue May  6 20:15:33 2025
