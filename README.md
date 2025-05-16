@@ -9,13 +9,8 @@ Dans un futur proche, la frontière entre vie réelle et numérique est plus flo
 </p>
 
 ## Installation
-Pour pouvoir jouer au jeu, il est nécessaire d'installer le logiciel renpy sur le lien suivant : https://www.renpy.org/
-
-## Lancer le jeu
-* Téléchargez le dossier Mindware (le dossier zip du repository)
-* Décompressez le dans le répertoire de vos projets renpy (que vous définissez dans le logiciel)
-* Lancer ensuite le logiciel renpy
-* Vous pouvez maintenant lancer le projet MindWare
+Pour pouvoir jouer au jeu, vous pouvez l'installer sur le lien suivant : https://mathieubaba.itch.io/mindware
+Un fichier .exe se trouvera ensuite dans le dossier .zip décompréssé.
 
 ## AI4GOOD Festival
 Ce jeu a été développé dans le cadre du AI4GOOD festival. Cette une organisation à but non lucratif initie les jeunes à l’utilisation de l’intelligence artificielle pour créer des courts-métrages et jeux vidéo, pour qu’ils développent leurs compétences tout en s’engageant sur des enjeux sociaux majeurs.
