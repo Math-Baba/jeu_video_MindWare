@@ -10,6 +10,7 @@ Dans un futur proche, la frontière entre vie réelle et numérique est plus flo
 
 ## Installation
 Pour pouvoir jouer au jeu, vous pouvez l'installer sur le lien suivant : https://mathieubaba.itch.io/mindware
+
 Un fichier .exe se trouvera ensuite dans le dossier .zip décompréssé.
 
 ## AI4GOOD Festival
