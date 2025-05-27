@@ -37,3 +37,5 @@ Ce jeu a été développé dans le cadre du AI4GOOD festival. Cette une organisa
   - removebg
   - pixelcut ai
 
+# Auteur
+**Math-Baba** - [GitHub](https://github.com/Math-Baba)
